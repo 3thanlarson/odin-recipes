@@ -1,14 +1,32 @@
 * {
     font-family: "Verdana", sans-serif;
-    
+    background-color: rgb(245, 234, 220);
 }
 
 h1 {
-    display: block;
     padding: 10px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
     text-align: center;
-    border: 5px solid rgb(49, 72, 80);
-    background-color: rgb(70, 185, 238);
-    color: white;
+    background-color:rgb(186, 174, 158);
+    color:rgb(51, 51, 51);
+}
+
+h2, .links {
+    margin: auto;
+}
+
+h2 {
+    border-top: 3px solid gray;
+    text-align: center;
+    background-color: rgb(186, 174, 158);
+    color:rgb(51, 51, 51);
+}
+
+.links {
+    border: 3px solid gray;
+    width: 25%;
+    padding: 5px;
 }
 
