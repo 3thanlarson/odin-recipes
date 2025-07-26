@@ -1,0 +1,14 @@
+* {
+    font-family: "Verdana", sans-serif;
+    
+}
+
+h1 {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid rgb(49, 72, 80);
+    background-color: rgb(70, 185, 238);
+    color: white;
+}
+
